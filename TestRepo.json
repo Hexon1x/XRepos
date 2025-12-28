@@ -14,7 +14,7 @@
       "author": "VideoLAN",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/1058px-VLC_Icon.svg.png",
       "description": "Free and open source multimedia player.",
-      "apk": "https://get.videolan.org/vlc-android/3.5.4/VLC-Android-3.5.4-arm64-v8a.apk"
+      "apk": "https://f-droid.org/repo/org.videolan.vlc_13060508.apk"
     },
     {
       "name": "AntennaPod",
