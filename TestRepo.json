@@ -17,12 +17,12 @@
       "apk": "https://f-droid.org/repo/org.videolan.vlc_13060508.apk"
     },
     {
-      "name": "AntennaPod",
+      "name": "Termux",
       "version": "3.3.2",
-      "author": "AntennaPod Team",
-      "icon": "https://avatars.mds.yandex.net/get-entity_search/2327175/519102453/S114x114FitScale_2x",
-      "description": "Podcast manager with automatic downloads and sync.",
-      "apk": "https://github.com/AntennaPod/AntennaPod/releases/download/3.3.2/AntennaPod_3.3.2.apk"
+      "author": "Fredrik Fornwall",
+      "icon": "https://avatars.mds.yandex.net/get-entity_search/5542822/561603588/S114x114FitScale_2x",
+      "description": "Termux is an Android terminal emulator and Linux environment app.",
+      "apk": "https://f-droid.org/repo/com.termux_1022.apk"
     }
   ]
 }
