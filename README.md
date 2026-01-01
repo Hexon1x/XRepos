@@ -8,4 +8,4 @@
 
 ### VirusTotal
 
-[VirusTotal Scan Result](https://www.virustotal.com/gui/file/c9d9aa6773a2c17dd91f982f423387cbec8a47bd8810d8dec25b1841e5c4a7b5/detection)
+[VirusTotal Scan Result](https://www.virustotal.com/gui/file/f493cc3572fc2cdd53c39c824d6bc1103418b67edd8fed271cbb292cd26b42a7/detection)
